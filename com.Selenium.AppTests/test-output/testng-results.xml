@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-02T16:53:01 CST" name="Suite" finished-at="2021-02-02T16:53:01 CST" duration-ms="49">
+  <suite started-at="2021-02-02T23:25:50 CST" name="Suite" finished-at="2021-02-02T23:25:50 CST" duration-ms="478">
     <groups>
     </groups>
-    <test started-at="2021-02-02T16:53:01 CST" name="Test" finished-at="2021-02-02T16:53:01 CST" duration-ms="49">
+    <test started-at="2021-02-02T23:25:50 CST" name="Test" finished-at="2021-02-02T23:25:50 CST" duration-ms="478">
       <class name="com.Selenium.AppUtilities.MavenSampleTest">
-        <test-method signature="f()[pri:0, instance:com.Selenium.AppUtilities.MavenSampleTest@4387b79e]" started-at="2021-02-02T16:53:01 CST" name="f" finished-at="2021-02-02T16:53:01 CST" duration-ms="7" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.Selenium.AppUtilities.MavenSampleTest@7995092a]" started-at="2021-02-02T23:25:50 CST" name="f" finished-at="2021-02-02T23:25:50 CST" duration-ms="76" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
