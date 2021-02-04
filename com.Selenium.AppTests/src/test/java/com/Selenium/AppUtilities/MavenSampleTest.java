@@ -35,10 +35,5 @@ public class MavenSampleTest {
 	  
 	  
 	  
-	  System.out.println("Java Selenium Test");
-	  System.out.println("Launching browser");
-	  System.out.println("Verify Username");
-	  System.out.println("Verify Password");
-	  System.out.println("Click loginbutton");
   }
 }
